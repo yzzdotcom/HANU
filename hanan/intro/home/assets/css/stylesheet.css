@@ -1,0 +1,687 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: #262626;
+	color: #eee;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	transition: .5s;
+}
+
+.cri {
+	position: absolute;
+	height: 250px;
+	width: 1000px;
+	border-radius: 5px;
+	background: #262626;
+	color: #eee;
+	opacity: 0.6;
+	top: 2000px;
+	left: 15%;
+}
+
+.quote {
+	position: absolute;
+	letter-spacing: 1px;
+	font-size: 35px;
+	font-weight: 10px;
+	top: 17%;
+	right: 08%;
+	margin-left: 6%;
+	text-align: center;
+	margin-right: 64%;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	opacity: 1;
+}
+
+
+.line {
+	letter-spacing: 3px;
+	font-size: 40px;
+	font-weight: 1.2vw;
+	color: #eee;
+	position: relative;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	left: 32%;
+	top: 27%;
+	opacity: 0.9;
+}
+
+.cringe {
+	position: absolute;
+	font-size: 40px;
+	letter-spacing: 5px;
+	font-weight: 10px;
+	left: 23%;
+	top: 2070px;
+}
+
+
+
+.parallax1 {
+	background-image:#808080;
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.quotePadding {
+	height: 870px;
+	width: 35%;
+	background: #262626;
+	opacity: 0.6;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0 auto;
+}
+
+.cloud {
+	background-image: url('media/cloud.jpg');
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+
+.card1 {
+	height: 870px;
+	overflow: hidden;
+	width: 0100%;
+	padding: 0px;
+	border: none;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.paraForEyes {
+	background-image: url('media/1.jpeg');
+	background-size: cover;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.familyQuote {
+	background: -webkit-radial-gradient(center, ellipse cover, #2c5364 1%, #0f2027 77%);
+	height: 870px;
+	overflow: hidden;
+	bottom: 0;
+	font-style: italic;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+
+
+.btstheme {
+	background-image: url('media/band.jpg');
+	background-size: contain;
+	height: 860px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.familyMsg {
+	background-image: url('media/family.jpeg');
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.photos {
+	background-image: url('media/qw.jpeg');
+	background-size: contain;
+	height: 860px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.cri1 {
+	position: relative;
+	height: 250px;
+	width: 1100px;
+	border-radius: 5px;
+	background: #262626;
+	color: #eee;
+	opacity: 0.6;
+	top: 30%;
+	left: 15%;
+}
+
+.cringe1 {
+	position: relative;
+	font-size: 40px;
+	letter-spacing: 5px;
+	font-weight: 10px;
+	font-style: italic;
+	left: 33%;
+	top: 70px;
+}
+
+.changes {
+	position: relative;
+	font-size: 30px;
+	letter-spacing: 5px;
+	font-style: italic;
+	font-weight: 10px;
+	left: 20%;
+	top: 70px;
+	font-style: italic;
+	margin-right: 38%;
+	text-align: center;
+}
+
+.video {
+	width: 200px;
+	height: 300px;ml3
+	float: right;
+	top: 20%;
+	left: 40%;
+	position: absolute;
+}
+
+.parallax {
+	background-image: url("assets/media/final.jpg");
+	height: 860px;
+	overflow: hidden;
+	bottom: 0;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.cringyPadding {
+	height: 20px;
+	width: 20px;
+	float: center;
+	opacity: 0.8;
+	top: 20%;
+	left: 20%;
+	position: relative;
+}
+
+.videobg {
+	background-color: #262626;
+	height: 870px;
+	overflow: hidden;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.endVideo {
+
+	height: 800px;
+	overflow: hidden;
+	width: 100%;
+	top: 35px;
+	position: relative;
+	padding: 0px;
+	overflow: hidden;
+}
+
+
+
+
+
+#myVideo {
+	width: 100%;
+	height: 110%;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 0%;
+	margin-right: 0%;
+	left: 0%;
+	right: 0;
+	display: block;
+}
+
+@media screen and (max-width: 481px) {
+	.parallax1 {
+		background-image: url('media/try1.jpg');
+		height: 850px;
+		width: 100%;
+	}
+
+	.quote {
+		font-size: 20px;
+		font-weight: 1.3vw;
+		top: 68%;
+		right: 8%;
+		margin-left: 10%;
+		margin-right: 2%;
+		opacity: 1;
+	}
+
+	.line {
+		letter-spacing: 3px;
+		font-size: 20px;
+		text-align: center;
+		font-weight: 1.5vw;
+		left: 15%;
+		margin-right: 100px;
+		top: 35%;
+		opacity: 1;
+	}
+
+	.btstheme {
+		background-image: url('media/band.jpg');
+		background-size: cover;
+	}
+
+	.cringyPadding {
+		height: 20px;
+		width: 20px;
+		float: center;
+		opacity: 0.8;
+		top: 20%;
+		left: 20%;
+		position: relative;
+	}
+}body {
+	padding: 0;
+	margin: 0;
+	background: #262626;
+	color: #eee;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	transition: .5s;
+}
+
+.cri {
+	position: absolute;
+	height: 250px;
+	width: 1000px;
+	border-radius: 5px;
+	background: #262626;
+	color: #eee;
+	opacity: 0.6;
+	top: 2000px;
+	left: 15%;
+}
+
+.quote {
+	position: absolute;
+	letter-spacing: 1px;
+	font-size: 35px;
+	font-weight: 10px;
+	top: 17%;
+	right: 08%;
+	margin-left: 6%;
+	text-align: center;
+	margin-right: 64%;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	opacity: 1;
+}
+
+
+.line {
+	letter-spacing: 3px;
+	font-size: 40px;
+	font-weight: 1.2vw;
+	color: #eee;
+	position: relative;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	left: 32%;
+	top: 27%;
+	opacity: 0.9;
+}
+
+.cringe {
+	position: absolute;
+	font-size: 40px;
+	letter-spacing: 5px;
+	font-weight: 10px;
+	left: 23%;
+	top: 2070px;
+}
+
+
+
+.parallax1 {
+	background-image:#808080;
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.quotePadding {
+	height: 870px;
+	width: 35%;
+	background: #262626;
+	opacity: 0.6;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0 auto;
+}
+
+.cloud {
+	background-image: url('media/cloud.jpg');
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+
+.card1 {
+	height: 870px;
+	overflow: hidden;
+	width: 0100%;
+	padding: 0px;
+	border: none;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.paraForEyes {
+	background-image: url('media/1.jpeg');
+	background-size: cover;
+	height: 870px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.familyQuote {
+	background: -webkit-radial-gradient(center, ellipse cover, #2c5364 1%, #0f2027 77%);
+	height: 870px;
+	overflow: hidden;
+	bottom: 0;
+	font-style: italic;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+
+
+.btstheme {
+	background-image: url('media/band.jpg');
+	background-size: contain;
+	height: 860px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.familyMsg {
+	background-image: url('media/family.jpeg');
+	-webkit-background-size: contain;
+	height: 870px;
+	overflow: hidden;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.photos {
+	background-image: url('media/qw.jpeg');
+	background-size: contain;
+	height: 860px;
+	overflow: hidden;
+	bottom: 100%;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.cri1 {
+	position: relative;
+	height: 250px;
+	width: 1100px;
+	border-radius: 5px;
+	background: #262626;
+	color: #eee;
+	opacity: 0.6;
+	top: 30%;
+	left: 15%;
+}
+
+.cringe1 {
+	position: relative;
+	font-size: 40px;
+	letter-spacing: 5px;
+	font-weight: 10px;
+	font-style: italic;
+	left: 33%;
+	top: 70px;
+}
+
+.changes {
+	position: relative;
+	font-size: 30px;
+	letter-spacing: 5px;
+	font-style: italic;
+	font-weight: 10px;
+	left: 20%;
+	top: 70px;
+	font-style: italic;
+	margin-right: 38%;
+	text-align: center;
+}
+
+.video {
+	width: 200px;
+	height: 300px;ml3
+	float: right;
+	top: 20%;
+	left: 40%;
+	position: absolute;
+}
+
+.parallax {
+	background-image: url("assets/media/final.jpg");
+	height: 860px;
+	overflow: hidden;
+	bottom: 0;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	top: 0;
+}
+
+.cringyPadding {
+	height: 20px;
+	width: 20px;
+	float: center;
+	opacity: 0.8;
+	top: 20%;
+	left: 20%;
+	position: relative;
+}
+
+.videobg {
+	background-color: #262626;
+	height: 870px;
+	overflow: hidden;
+	width: 100%;
+	padding: 0px;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.endVideo {
+
+	height: 800px;
+	overflow: hidden;
+	width: 100%;
+	top: 35px;
+	position: relative;
+	padding: 0px;
+	overflow: hidden;
+}
+
+
+
+
+
+#myVideo {
+	width: 100%;
+	height: 110%;
+	background-attachment: fixed;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 0%;
+	margin-right: 0%;
+	left: 0%;
+	right: 0;
+	display: block;
+}
+
+@media screen and (max-width: 481px) {
+	.parallax1 {
+		background-image: url('media/try1.jpg');
+		height: 850px;
+		width: 100%;
+	}
+
+	.quote {
+		font-size: 20px;
+		font-weight: 1.3vw;
+		top: 68%;
+		right: 8%;
+		margin-left: 10%;
+		margin-right: 2%;
+		opacity: 1;
+	}
+
+	.line {
+		letter-spacing: 3px;
+		font-size: 20px;
+		text-align: center;
+		font-weight: 1.5vw;
+		left: 15%;
+		margin-right: 100px;
+		top: 35%;
+		opacity: 1;
+	}
+
+	.btstheme {
+		background-image: url('media/band.jpg');
+		background-size: cover;
+	}
+
+	.cringyPadding {
+		height: 20px;
+		width: 20px;
+		float: center;
+		opacity: 0.8;
+		top: 20%;
+		left: 20%;
+		position: relative;
+	}
+}

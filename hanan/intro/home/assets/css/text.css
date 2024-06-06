@@ -1,0 +1,71 @@
+.cubetext {
+	letter-spacing: 1.8px;
+	font-size: 3.5em;
+	font-weight: 900;
+	color: #eeeeee;
+	position: relative;
+	top: 36%;
+	margin-left: 6%;
+	margin-right: 60%;
+	float: left;
+	text-align: center;
+	opacity: 1;
+	font-style: italic;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	
+}
+.btsthemetext {
+	letter-spacing: 1.8px;
+	font-weight: 900;
+	font-size: 3.5em;
+	position: relative;
+	top: 37%;
+	float: left;
+	margin-left: 6%;
+	margin-right: 60%;
+	text-align: center;
+	color: #eeeeee;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	opacity: 0.8;
+}
+.ml3 {
+	letter-spacing: 3px;
+	font-weight: 900;
+	font-size: 2.5em;
+	position: relative;
+	top: 55%;
+	float: left;
+	margin-left: 9%;
+	margin-right: 60%;
+	text-align: center;
+	color: #eeeeee;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-style: italic;
+	opacity: 1;
+}
+
+.greenday {
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	top: 2870px;
+	float: initial;
+	left: 20%;
+}
+
+@media only screen and (max-width: 481px) {
+	.btsthemetext {
+		letter-spacing: 1.8px;
+		font-weight: 900;
+		font-size: 40px;
+		top: 20%;
+		margin-left: 6%;
+		margin-right: 60%;
+	}
+	.greenday {
+		font-size: 13px;
+		top: 1820px;
+		left: 27%;
+	}
+}
